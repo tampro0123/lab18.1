@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-img1 {
+    background-color: #000;
+    height: 600px;
+
+    background-size: cover;
+    background-image: url(https://duhocvietglobal.com/wp-content/uploads/2018/12/dat-nuoc-va-con-nguoi-anh-quoc.jpg);
+}
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    height: 600px;
+    background-image: url(https://images2.content-hci.com/commimg/myhotcourses/blog/post/myhc_94121.jpg);
+}
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    height: 600px;
+
+    background-image: url(https://vuongquocanh.com/wp-content/uploads/2018/05/london-eye-800x534.jpg);
+}
+.carousel-indicators button {
+    background-color: blue !important;
+}
